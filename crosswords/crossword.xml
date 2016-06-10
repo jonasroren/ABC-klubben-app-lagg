@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Conforms to Universal Crossword Puzzle Format XPF Version 1.0 -->
+<content>
+	<OMAS>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~</Row>
+					<Row>~~t~~</Row>
+					<Row>~~o~~</Row>
+					<Row>~~mos</Row>
+					<Row>~~a~o</Row>
+					<Row>~stol</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="3" Num="0" Dir="Down" Ans="TOMAT" Img="tomat.png"></Clue>
+					<Clue Row="3" Col="5" Num="0" Dir="Down" Ans="SOL" Img="sol.png"></Clue>
+					<Clue Row="4" Col="2" Num="0" Dir="Across" Ans="MOS" Img="mos.png"></Clue>
+					<Clue Row="6" Col="1" Num="0" Dir="Across" Ans="STOL" Img="stol.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~morot</Row>
+					<Row>~~~a~~~~</Row>
+					<Row>~ros~~~~</Row>
+					<Row>~~sko~~~</Row>
+					<Row>~~t~~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="4" Num="0" Dir="Down" Ans="MASK" Img="mask.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Across" Ans="MOROT" Img="morot.png"></Clue>
+					<Clue Row="3" Col="3" Num="0" Dir="Down" Ans="OST" Img="ost.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="ROS" Img="ros.png"></Clue>
+					<Clue Row="5" Col="2" Num="0" Dir="Across" Ans="SKO" Img="sko.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~</Row>
+					<Row>~morot~</Row>
+					<Row>~~~a~~~</Row>
+					<Row>~~~mask</Row>
+					<Row>~~~~~~o</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="4" Num="0" Dir="Down" Ans="RAM" Img="ram.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="MOROT" Img="morot.png"></Clue>
+					<Clue Row="3" Col="7" Num="0" Dir="Down" Ans="KO" Img="ko.png"></Clue>
+					<Clue Row="4" Col="3" Num="0" Dir="Across" Ans="MASK" Img="mask.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+				
+				
+				
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~~ost</Row>
+					<Row>~~~v~r~~</Row>
+					<Row>~~~arm~~</Row>
+					<Row>~mus~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="ORM" Img="orm.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Down" Ans="VAS" Img="vas.png"></Clue>
+					<Clue Row="2" Col="5" Num="0" Dir="Across" Ans="OST" Img="ost.png"></Clue>
+					<Clue Row="4" Col="3" Num="0" Dir="Across" Ans="ARM" Img="arm.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="MUS" Img="mus.png"></Clue>
+				</Clues>
+			</Puzzle>
+		</Puzzles>
+	</OMAS>
+	<RLEN>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~</Row>
+					<Row>~l~~~~</Row>
+					<Row>~o~~~~</Row>
+					<Row>~kamel</Row>
+					<Row>~~r~~~</Row>
+					<Row>~~måne</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="LOK" Img="lok.png"></Clue>
+					<Clue Row="3" Col="3" Num="0" Dir="Down" Ans="ARM" Img="arm.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="KAMEL" Img="kamel.png"></Clue>
+					<Clue Row="6" Col="2" Num="0" Dir="Across" Ans="MÅNE" Img="maane.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~</Row>
+					<Row>~~~~sol</Row>
+					<Row>~~~~t~~</Row>
+					<Row>~~r~o~~</Row>
+					<Row>~semla~</Row>
+					<Row>~~p~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="STOL" Img="stol.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Across" Ans="SOL" Img="sol.png"></Clue>
+					<Clue Row="3" Col="3" Num="0" Dir="Down" Ans="REP" Img="rep.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="SEMLA" Img="semla.png"></Clue>
+				</Clues>
+			</Puzzle> 
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~</Row>
+					<Row>~o~~säl</Row>
+					<Row>~r~~t~~</Row>
+					<Row>~melon~</Row>
+					<Row>~~~~l~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="ORM" Img="orm.png"></Clue>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="STOL" Img="stol.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Across" Ans="SÄL" Img="sael.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="MELON" Img="melon.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~</Row>
+					<Row>~~~~r~</Row>
+					<Row>~lejon</Row>
+					<Row>~a~~S~</Row>
+					<Row>~ram~~</Row>
+					<Row>~v~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="ROS" Img="ros.png"></Clue>
+					<Clue Row="2" Col="2" Num="0" Dir="Down" Ans="LARV" Img="larv.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="LEJON" Img="lejon.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="RAM" Img="ram.png"></Clue>
+				</Clues>
+			</Puzzle>
+		</Puzzles>
+	</RLEN>
+	<ITVD>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~o~~~~~o</Row>
+					<Row>~s~s~val</Row>
+					<Row>~tavla~i</Row>
+					<Row>~~~a~s~v</Row>
+					<Row>~tand~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="OST" Img="ost.png"></Clue>
+					<Clue Row="1" Col="8" Num="0" Dir="Down" Ans="OLIV" Img="oliv.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Down" Ans="SVAN" Img="svan.png"></Clue>
+					<Clue Row="3" Col="5" Num="0" Dir="Across" Ans="VAL" Img="val.png"></Clue>
+					<Clue Row="2" Col="6" Num="0" Dir="Down" Ans="VAS" Img="vas.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="TAVLA" Img="tavla.png"></Clue>
+					<Clue Row="6" Col="1" Num="0" Dir="Across" Ans="TAND" Img="tand.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~~</Row>
+					<Row>~stol~~~g</Row>
+					<Row>~~o~a~~~r</Row>
+					<Row>~~morot~o</Row>
+					<Row>~~a~v~eld</Row>
+					<Row>~~t~~~~~a</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="3" Num="0" Dir="Down" Ans="TOMAT" Img="tomat.png"></Clue>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="LARV" Img="larv.png"></Clue>
+					<Clue Row="1" Col="9" Num="0" Dir="Down" Ans="GRODA" Img="groda.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="STOL" Img="stol.png"></Clue>
+					<Clue Row="3" Col="7" Num="0" Dir="Down" Ans="TE" Img="te.png"></Clue>
+					<Clue Row="4" Col="2" Num="0" Dir="Across" Ans="MOROT" Img="morot.png"></Clue>
+					<Clue Row="5" Col="6" Num="0" Dir="Across" Ans="ELD" Img="eld.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~s~~~v~t</Row>
+					<Row>~v~drake</Row>
+					<Row>~a~~~n~~</Row>
+					<Row>~monster</Row>
+					<Row>~p~~~e~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="SVAMP" Img="svamp.png"></Clue>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="VANTE" Img="vante.png"></Clue>
+					<Clue Row="1" Col="8" Num="0" Dir="Down" Ans="TE" Img="te.png"></Clue>
+					<Clue Row="3" Col="3" Num="0" Dir="Across" Ans="DRAKE" Img="drake.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="MONSTER" Img="monster.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~~l~s</Row>
+					<Row>~~~s~a~t</Row>
+					<Row>~motor~a</Row>
+					<Row>~~~o~vev</Row>
+					<Row>~sil~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="LARV" Img="larv.png"></Clue>
+					<Clue Row="1" Col="8" Num="0" Dir="Down" Ans="STAV" Img="stav.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Down" Ans="STOL" Img="stol.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="MOTOR" Img="motor.png"></Clue>
+					<Clue Row="5" Col="5" Num="0" Dir="Across" Ans="VEV" Img="vev.png"></Clue>
+					<Clue Row="6" Col="1" Num="0" Dir="Across" Ans="SIL" Img="sil.png"></Clue>
+				</Clues>
+			</Puzzle>
+		</Puzzles>
+	</ITVD>
+	<ÄKÅU>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~tårta</Row>
+					<Row>~~~~s~å~</Row>
+					<Row>~s~~n~r~</Row>
+					<Row>~åska~~~</Row>
+					<Row>~g~o~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="ÅSNA" Img="aasna.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="TÅR" Img="taar.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Across" Ans="TÅRTA" Img="taarta.png"></Clue>
+					<Clue Row="3" Col="2" Num="0" Dir="Down" Ans="SÅG" Img="saag.png"></Clue>
+					<Clue Row="4" Col="4" Num="0" Dir="Down" Ans="KO" Img="ko.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="ÅSKA" Img="aaska.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~~t~~</Row>
+					<Row>~drake~~</Row>
+					<Row>~~ä~n~r~</Row>
+					<Row>~ek~i~ä~</Row>
+					<Row>~~a~vev~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="TE" Img="te.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Down" Ans="RÄKA" Img="raeka.png"></Clue>
+					<Clue Row="2" Col="5" Num="0" Dir="Down" Ans="KNIV" Img="kniv.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="DRAKE" Img="drake.png"></Clue>
+					<Clue Row="3" Col="7" Num="0" Dir="Down" Ans="RÄV" Img="raev.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="EK" Img="ek.png"></Clue>
+					<Clue Row="6" Col="4" Num="0" Dir="Across" Ans="VEV" Img="vev.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~krona~~</Row>
+					<Row>~a~~~n~~</Row>
+					<Row>~mun~klo~</Row>
+					<Row>~e~åra~~</Row>
+					<Row>~l~l~~~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="KAMEL" Img="kamel.png"></Clue>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="ANKA" Img="anka.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="KRONA" Img="krona.png"></Clue>
+					<Clue Row="3" Col="4" Num="0" Dir="Down" Ans="NÅL" Img="naal.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="MUN" Img="mun.png"></Clue>
+					<Clue Row="4" Col="5" Num="0" Dir="Across" Ans="KLO" Img="klo.png"></Clue>
+					<Clue Row="5" Col="3" Num="0" Dir="Across" Ans="ÅRA" Img="aara.png"></Clue>
+		
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~åska</Row>
+					<Row>~ubåt~a~</Row>
+					<Row>~~u~t~n~</Row>
+					<Row>~åsna~i~</Row>
+					<Row>~~s~~~n~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="ÅTTA" Img="aatta.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="KANIN" Img="kanin.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Down" Ans="BUSS" Img="buss.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Across" Ans="ÅSKA" Img="aaska.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="UBÅT" Img="ubaat.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="ÅSNA" Img="aasna.png"></Clue>
+		
+				</Clues>
+			</Puzzle>
+		</Puzzles>
+	</ÄKÅU>
+	<HPÖF>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~delfin~</Row>
+					<Row>~~~~i~~n</Row>
+					<Row>~~häst~ö</Row>
+					<Row>~~a~katt</Row>
+					<Row>~~j~~x~~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="FISK" Img="fisk.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="DELFIN" Img="delfin.png"></Clue>
+					<Clue Row="2" Col="8" Num="0" Dir="Down" Ans="NÖT" Img="noet.png"></Clue>
+					<Clue Row="3" Col="3" Num="0" Dir="Down" Ans="HAJ" Img="haj.png"></Clue>
+					<Clue Row="3" Col="6" Num="0" Dir="Down" Ans="TAX" Img="tax.png"></Clue>
+					<Clue Row="4" Col="2" Num="0" Dir="Across" Ans="HÄST" Img="haest.png"></Clue>
+					<Clue Row="5" Col="4" Num="0" Dir="Across" Ans="KATT" Img="katt.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~~</Row>
+					<Row>~~~päron~</Row>
+					<Row>~~~a~~~~~</Row>
+					<Row>~höna~får</Row>
+					<Row>~~~d~~o~o</Row>
+					<Row>~~paket~s</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="4" Num="0" Dir="Down" Ans="PANDA" Img="panda.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Across" Ans="PÄRON" Img="paeron.png"></Clue>
+					<Clue Row="3" Col="7" Num="0" Dir="Down" Ans="FOT" Img="fot.png"></Clue>
+					<Clue Row="3" Col="9" Num="0" Dir="Down" Ans="ROS" Img="ros.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="HÖNA" Img="hoena.png"></Clue>
+					<Clue Row="4" Col="6" Num="0" Dir="Across" Ans="FÅR" Img="faar.png"></Clue>
+					<Clue Row="6" Col="2" Num="0" Dir="Across" Ans="PAKET" Img="paket.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~häst~~h</Row>
+					<Row>~~p~~~~u</Row>
+					<Row>~apelsin</Row>
+					<Row>~~l~~~~d</Row>
+					<Row>~delfin~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="3" Num="0" Dir="Down" Ans="ÄPPLE" Img="aepple.png"></Clue>
+					<Clue Row="1" Col="8" Num="0" Dir="Down" Ans="HUND" Img="hund.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="HÄST" Img="haest.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="APELSIN" Img="apelsin.png"></Clue>
+					<Clue Row="6" Col="1" Num="0" Dir="Across" Ans="DELFIN" Img="delfin.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~öra~p~</Row>
+					<Row>~~d~~~a~</Row>
+					<Row>~elefant</Row>
+					<Row>~~o~o~d~</Row>
+					<Row>~~råtta~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="3" Num="0" Dir="Down" Ans="ÖDLOR" Img="oedlor.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="PANDA" Img="panda.png"></Clue>
+					<Clue Row="2" Col="2" Num="0" Dir="Across" Ans="ÖRA" Img="oera.png"></Clue>
+					<Clue Row="3" Col="5" Num="0" Dir="Down" Ans="FOT" Img="fot.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="ELEFANT" Img="elefant.png"></Clue>
+					<Clue Row="6" Col="2" Num="0" Dir="Across" Ans="RÅTTA" Img="raatta.png"></Clue>
+				</Clues>
+			</Puzzle>
+		</Puzzles>
+	</HPÖF>
+	<YGBJ>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~n~b~~~u</Row>
+					<Row>~y~u~j~g</Row>
+					<Row>~påskägg</Row>
+					<Row>~o~s~r~l</Row>
+					<Row>~n~~~v~a</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="NYPON" Img="nypon.png"></Clue>
+					<Clue Row="1" Col="4" Num="0" Dir="Down" Ans="BUSS" Img="buss.png"></Clue>
+					<Clue Row="1" Col="8" Num="0" Dir="Down" Ans="UGGLA" Img="uggla.png"></Clue>
+					<Clue Row="2" Col="6" Num="0" Dir="Down" Ans="JÄRV" Img="jaerv.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="PÅSKÄGG" Img="paaskaegg.png"></Clue>
+					</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~b~g~</Row>
+					<Row>~paraply</Row>
+					<Row>~~~~n~a~</Row>
+					<Row>~fyra~s~</Row>
+					<Row>~~r~n~s~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="BANAN" Img="banan.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="GLASS" Img="glass.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="PARAPLY" Img="paraply.png"></Clue>
+					<Clue Row="4" Col="3" Num="0" Dir="Down" Ans="YR" Img="yr.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="FYRA" Img="fyra.png"></Clue>
+					</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~b~~l~</Row>
+					<Row>~~fjäder</Row>
+					<Row>~~~ö~~j~</Row>
+					<Row>~myra~o~</Row>
+					<Row>~~~n~~n~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="4" Num="0" Dir="Down" Ans="BJÖRN" Img="bjoern.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="LEJON" Img="lejon.png"></Clue>
+					<Clue Row="3" Col="2" Num="0" Dir="Across" Ans="FJÄDER" Img="fjaeder.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="MYRA" Img="myra.png"></Clue>
+					</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~~~g~b~</Row>
+					<Row>~fjäril~</Row>
+					<Row>~~o~i~is</Row>
+					<Row>~~j~s~x~</Row>
+					<Row>~bok~~t~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="GRIS" Img="gris.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="BLIXT" Img="blixt.png"></Clue>
+					<Clue Row="2" Col="3" Num="0" Dir="Down" Ans="JOJO" Img="jojo.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="FJÄRIL" Img="fjaeril.png"></Clue>
+					<Clue Row="4" Col="6" Num="0" Dir="Across" Ans="IS" Img="is.png"></Clue>
+					<Clue Row="6" Col="1" Num="0" Dir="Across" Ans="BOK" Img="bok.png"></Clue>
+					</Clues>
+			</Puzzle>
+		</Puzzles>
+	</YGBJ>
+	<CXWZ>
+		<Puzzles>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~~m~u~c~</Row>
+					<Row>~cowboy~</Row>
+					<Row>~~r~å~k~</Row>
+					<Row>~~ost~e~</Row>
+					<Row>~~t~~klo</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="3" Num="0" Dir="Down" Ans="MOROT" Img="morot.png"></Clue>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="UBÅT" Img="ubaat.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="CYKEL" Img="cykel.png"></Clue>
+					<Clue Row="3" Col="1" Num="0" Dir="Across" Ans="COWBOY" Img="cowboy.png"></Clue>
+					<Clue Row="5" Col="2" Num="0" Dir="Across" Ans="OST" Img="ost.png"></Clue>
+					<Clue Row="6" Col="5" Num="0" Dir="Across" Ans="KLO" Img="klo.png"></Clue>
+					</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~</Row>
+					<Row>~z~~sex</Row>
+					<Row>~e~~a~~</Row>
+					<Row>~blixt~</Row>
+					<Row>~r~~~a~</Row>
+					<Row>~a~häxa</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="ZEBRA" Img="zebra.png"></Clue>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="SAX" Img="sax.png"></Clue>
+					<Clue Row="2" Col="4" Num="0" Dir="Across" Ans="SEX" Img="sex.png"></Clue>
+					<Clue Row="3" Col="6" Num="0" Dir="Down" Ans="TAX" Img="tax.png"></Clue>
+					<Clue Row="4" Col="1" Num="0" Dir="Across" Ans="BLIXT" Img="blixt.png"></Clue>
+					<Clue Row="6" Col="3" Num="0" Dir="Across" Ans="HÄXA" Img="haexa.png"></Clue>
+				</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~paket~~</Row>
+					<Row>~i~~~a~k</Row>
+					<Row>~z~~yxor</Row>
+					<Row>~zebra~o</Row>
+					<Row>~a~~~r~k</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="PIZZA" Img="pizza.png"></Clue>
+					<Clue Row="1" Col="6" Num="0" Dir="Down" Ans="TAXAR" Img="taxar.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="PAKET" Img="paket.png"></Clue>
+					<Clue Row="2" Col="8" Num="0" Dir="Down" Ans="KROK" Img="krok.png"></Clue>
+					<Clue Row="3" Col="5" Num="0" Dir="Down" Ans="YR" Img="yr.png"></Clue>
+					<Clue Row="4" Col="4" Num="0" Dir="Across" Ans="YXOR" Img="yxor.png"></Clue>
+					<Clue Row="5" Col="1" Num="0" Dir="Across" Ans="ZEBRA" Img="zebra.png"></Clue>
+					</Clues>
+			</Puzzle>
+			<Puzzle>
+				<Grid>
+					<Row>~~~~~~~~</Row>
+					<Row>~cirkel~</Row>
+					<Row>~l~~o~e~</Row>
+					<Row>~o~~~~j~</Row>
+					<Row>~w~byxor</Row>
+					<Row>~n~~~~n~</Row>
+				</Grid>
+				<Clues>
+					<Clue Row="1" Col="2" Num="0" Dir="Down" Ans="CLOWN" Img="clown.png"></Clue>
+					<Clue Row="1" Col="5" Num="0" Dir="Down" Ans="KO" Img="ko.png"></Clue>
+					<Clue Row="1" Col="7" Num="0" Dir="Down" Ans="LEJON" Img="lejon.png"></Clue>
+					<Clue Row="2" Col="1" Num="0" Dir="Across" Ans="CIRKEL" Img="cirkel.png"></Clue>
+					<Clue Row="5" Col="3" Num="0" Dir="Across" Ans="BYXOR" Img="byxor.png"></Clue>
+					</Clues>
+			</Puzzle>
+		</Puzzles>
+	</CXWZ>
+</content>
