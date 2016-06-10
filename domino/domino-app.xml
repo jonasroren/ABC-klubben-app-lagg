@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/19.0">
+  <id>se.nok.abcdomino</id>
+  <versionNumber>1.1.10</versionNumber>
+  <filename>ABC-domino</filename>
+  <description/>
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>ABC-domino</name>
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright/>
+  <initialWindow>
+    <content>domino.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>auto</renderMode>
+    <autoOrients>false</autoOrients></initialWindow>
+  <icon>
+    <image48x48>icons/ikon_48x48.png</image48x48>
+    <image72x72>icons/ikon_72x72.png</image72x72>
+    <image29x29>icons/ikon_29x29.png</image29x29>
+    <image57x57>icons/ikon_57x57.png</image57x57>
+    <image114x114>icons/ikon_114x114.png</image114x114>
+    <image512x512>icons/ikon_512x512.png</image512x512>
+    <image50x50>icons/ikon_50x50.png</image50x50>
+    <image58x58>icons/ikon_58x58.png</image58x58>
+    <image100x100>icons/ikon_100x100.png</image100x100>
+    <image144x144>icons/ikon_144x144.png</image144x144>
+    <image1024x1024>icons/ikon_1024x1024.png</image1024x1024>
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <supportedLanguages>sv</supportedLanguages>
+  <iPhone>
+  	<Entitlements>
+      <![CDATA[
+        <key>get-task-allow</key>
+        <false/>
+        <key>beta-reports-active</key>
+        <true/>
+      ]]>
+    </Entitlements>
+    <InfoAdditions>
+      <![CDATA[<key>UIDeviceFamily</key><array><string>1</string><string>2</string></array>]]>
+    </InfoAdditions>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </iPhone>
+  <android>
+    <manifestAdditions>
+      <![CDATA[<manifest>
+</manifest>]]>
+    </manifestAdditions>
+  </android>
+</application>
