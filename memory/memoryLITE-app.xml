@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/22.0">
+  <id>se.nok.abcmemorylite</id>
+  <versionNumber>1.1.21</versionNumber>
+  <filename>ABC-memo</filename>
+  <description/>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>ABC-memo</name>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright/>
+  <initialWindow>
+    <content>memoryLITE.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>auto</renderMode>
+    <autoOrients>true</autoOrients></initialWindow>
+  <icon>
+    <image48x48>icons_lite/ikon_48x48.png</image48x48>
+    <image72x72>icons_lite/ikon_72x72.png</image72x72>
+    <image36x36>icons_lite/ikon_36x36.png</image36x36>
+    <image29x29>icons_lite/ikon_29x29.png</image29x29>
+    <image57x57>icons_lite/ikon_57x57.png</image57x57>
+    <image114x114>icons_lite/ikon_114x114.png</image114x114>
+    <image512x512>icons_lite/ikon_512x512.png</image512x512>
+    <image50x50>icons_lite/ikon_50x50.png</image50x50>
+    <image58x58>icons_lite/ikon_58x58.png</image58x58>
+    <image100x100>icons_lite/ikon_100x100.png</image100x100>
+    <image144x144>icons_lite/ikon_144x144.png</image144x144>
+    <image1024x1024>icons_lite/ikon_1024x1024.png</image1024x1024>
+    <image40x40>icons_lite/ikon_40x40.png</image40x40>
+    <image76x76>icons_lite/ikon_76x76.png</image76x76>
+    <image80x80>icons_lite/ikon_80x80.png</image80x80>
+    <image120x120>icons_lite/ikon_120x120.png</image120x120>
+    <image152x152>icons_lite/ikon_152x152.png</image152x152>
+    <image180x180>icons_lite/ikon_180x180.png</image180x180>
+    <image60x60>icons_lite/ikon_60x60.png</image60x60>
+    <image75x75>icons_lite/ikon_75x75.png</image75x75>
+    <image87x87>icons_lite/ikon_87x87.png</image87x87>
+    <image167x167>icons_lite/ikon_167x167.png</image167x167>
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <iPhone>
+  	<Entitlements>
+      <![CDATA[
+        <key>get-task-allow</key>
+        <false/>
+        <key>beta-reports-active</key>
+        <true/>
+      ]]>
+    </Entitlements>
+    <InfoAdditions><![CDATA[
+  <key>UIDeviceFamily</key>
+  <array>
+    <string>1</string>
+    <string>2</string>
+  </array>
+]]></InfoAdditions>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </iPhone>
+  <supportedLanguages>sv</supportedLanguages>
+</application>
